@@ -1,4 +1,52 @@
 <h2 align="center">Olá! Sejam Bem vindos ao meu Github!</h2>
+# Olá! Eu sou Jeferson Vieira 👋
+
+🎓 Estudante de Engenharia de Software na UNIFACS  
+💻 Focado em desenvolvimento Backend com Java e Spring Boot  
+📚 Atualmente estudando APIs REST, bancos de dados e arquitetura backend  
+🌎 Inglês intermediário  
+🚀 Buscando minha primeira oportunidade como desenvolvedor backend ou estagiário em software
+
+---
+
+## 🚀 Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+
+### Task Manager API
+API REST desenvolvida com Java e Spring Boot.
+
+✅ JWT Authentication  
+✅ PostgreSQL  
+✅ Docker  
+✅ Flyway  
+✅ Arquitetura REST  
+✅ CRUD completo  
+
+🔗 Link do projeto: [task-manager-api](SEU_LINK)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefersonVieira7&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonVieira7&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contato
+
+- LinkedIn: SEU_LINK
+- Email: SEU_EMAIL
 
 ###
 
